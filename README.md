@@ -1,5 +1,5 @@
 # ConstructionManagerProject
- 
+Version worked with  Unity 2020.1.4f1
 GCU
 2020
 with programmers Sean Darrah, Scott Ritz and Nathan King; designers Christopher Russell and Jack Anderson; artists Holly Strain, Jurij Bereznyckyj and Nadina Parcon
